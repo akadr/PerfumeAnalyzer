@@ -1,69 +1,54 @@
-# Parfüm Analiz Uygulaması
+# Perfume Analyzer
 
-Parfüm Analiz, kullanıcıların parfümlerini analiz ederek kişiselleştirilmiş öneriler sunan modern bir Android uygulamasıdır.
+Parfüm şişelerini analiz ederek kullanıcılara özel, mistik ve kişiselleştirilmiş analizler sunan Android uygulaması.
 
 ## Özellikler
 
-- 📸 Parfüm fotoğrafı çekme ve seçme
-- 🎯 Kişiselleştirilmiş parfüm analizi
-- 🌟 Özel anı ve yaşam tarzı önerileri
-- 🎵 Kişiye özel müzik türü önerileri
-- 🌈 Modern ve şık kullanıcı arayüzü
-- 🔄 Paylaşım özellikleri
+- 📸 Parfüm şişesi fotoğraf çekimi ve galeri seçimi
+- ✨ Altın temalı modern tasarım
+- 🎭 Kişiselleştirilmiş karakter analizi
+- 🎵 Parfüme özel müzik önerileri
+- 💫 Özel anı ve deneyim analizi
+- 📊 Detaylı kullanım metrikleri
+- 📱 Paylaşım özellikleri
 
-## Teknik Özellikler
+## Teknolojiler
 
-- 🛠 Modern Android geliştirme araçları
-- 📱 Jetpack Compose ile UI tasarımı
-- 📷 CameraX entegrasyonu
-- 🎨 Material Design 3 uyumlu
-- 🔒 Güvenli veri işleme
-- 🌐 Çoklu dil desteği
+- Kotlin
+- Jetpack Compose
+- CameraX
+- Material Design 3
+- Coroutines
+- Navigation Component
 
 ## Kurulum
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/yourusername/PerfumeAnalyzer.git
+git clone https://github.com/akadr/PerfumeAnalyzer.git
 ```
 
 2. Android Studio'da açın
-
-3. Gerekli bağımlılıkları yükleyin
-
-4. Uygulamayı derleyin ve çalıştırın
-
-## Geliştirme Ortamı Gereksinimleri
-
-- Android Studio Hedgehog | 2023.1.1 veya üzeri
-- JDK 17
-- Android SDK 34
-- Kotlin 1.9.0 veya üzeri
-
-## Yapı ve Mimari
-
-- MVVM mimarisi
-- Clean Architecture prensipleri
-- Jetpack Compose UI
-- Kotlin Coroutines
-- Dependency Injection
-- Repository pattern
+3. Gradle sync işlemini tamamlayın
+4. Uygulamayı çalıştırın
 
 ## Katkıda Bulunma
 
-1. Fork yapın
+1. Fork edin
 2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Add some amazing feature'`)
+3. Değişikliklerinizi commit edin (`git commit -m 'feat: Amazing feature added'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
-5. Pull Request oluşturun
+5. Pull Request açın
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
 ## İletişim
 
-[İletişim bilgileriniz]
+Abdulkadir Koç - [@akadr](https://github.com/akadr)
+
+Proje Linki: [https://github.com/akadr/PerfumeAnalyzer](https://github.com/akadr/PerfumeAnalyzer)
 
 ## Ekran Görüntüleri
 
